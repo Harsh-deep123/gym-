@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Performance",
+  "description": "High-contrast athletic engineering and precision retail store featuring carbon-plated footwear, interactive lab configurator, technical spec sheets, and dynamic parallax velocity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
